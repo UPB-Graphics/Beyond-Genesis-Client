@@ -1,19 +1,11 @@
-# Beyond-Genesis-Client
-Client for Beyond Genesis Project: a MMORPG game aimed to be completely procedurally generated (including chracters, animations, environment etc.).
-
-This repo is using GIT LFS (Large File System).
-
-## Contributing
-Fork repo and read [contributing](https://github.com/UPB-Graphics/Beyond-Genesis-Client/blob/main/CONTRIBUTING.md) documentation.
-
-### Quest system
-Added by Stefan Dobrica and Mihnea Zamfir
+# Quest system
+## Added by Stefan Dobrica and Mihnea Zamfir
 
 To add a quest, simply call QuestManager.AddQuest(Quest q)
 
 Quest constructor uses:
-- List<Goal>
-- List<Reward>
+- List\<Goal\>
+- List\<Reward\>
 - string questTitle
 - string questDesctiption
 
@@ -40,3 +32,6 @@ Includes:
     - Quest text (goals and rewards) updates in real time
     - UiManager uses a prefab for the quest template that resizes according to text length
 - Mock-up managers for Exp, Item, Money, Player and Enemy management
+
+Dependencies:
+- TextMeshPro
