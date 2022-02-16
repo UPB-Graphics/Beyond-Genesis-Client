@@ -1,0 +1,9 @@
+Am realizat partea de meniu principal pentru jocul 3D care include alegerea personajului
+de catre utilizator pentru a incepe jocul si setarile jocului(Options).
+Utilizatorul poate alege rezolutia potrivita, daca ecranul sa fie sau nu
+in mod fullscreen si volumul pentru muzica.
+De asemenea, in scena jocului am implementat si meniul de pauza prin care
+se poate reveni la joc sau in meniul principal.
+Fiecare personaj are un set de 6 caracteristici si o descriere si utilizatorul 
+poate studia fiecare personaj si apoi sa aleaga unul dintre cele 6(troll, human, 
+elf, goblin, orc, dwarf) apasand butonul de sub personaj.
