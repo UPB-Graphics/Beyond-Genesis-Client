@@ -20,14 +20,11 @@ finalul generării se apelează metoda surface.BuildNavMesh() pentru a delimita
 zonele pe unde se pot deplasa personajele. 
 
 Orașul din perspectiva jucătorului
-
-![alt text][https://github.com/vpirciulescu/images/blob/master/Screenshot%20from%202022-02-18%2021-05-12.png]
+![alt text](https://github.com/vpirciulescu/images/blob/master/Screenshot%20from%202022-02-18%2021-05-12.png)
 
 Orașul din perspectiva persoanei a III-a (1)
-
-![alt text][https://github.com/vpirciulescu/images/blob/master/Screenshot%20from%202022-02-18%2021-06-08.png]
+![alt text](https://github.com/vpirciulescu/images/blob/master/Screenshot%20from%202022-02-18%2021-06-08.png)
 
 Orașul din perspectiva persoanei a III-a (2)
-
-![alt text][https://github.com/vpirciulescu/images/blob/master/Screenshot%20from%202022-02-18%2021-09-26.png]
+![alt text](https://github.com/vpirciulescu/images/blob/master/Screenshot%20from%202022-02-18%2021-09-26.png)
 
